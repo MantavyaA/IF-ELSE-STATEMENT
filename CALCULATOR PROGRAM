@@ -56,3 +56,54 @@ int main() {
 }
 
 
+RESULT:
+
+
+Input:
+Enter your choice: 1
+enter 1st number: 12
+enter 2nd number: 8
+Output:
+Sum is: 20
+Thank you for using the calculator!
+
+Input:
+Enter your choice: 2
+enter 1st number: 15
+enter 2nd number: 5
+Output:
+Subtraction is: 10
+Thank you for using the calculator!
+
+Input:
+Enter your choice: 3
+enter 1st number: 6
+enter 2nd number: 4
+Output:
+Multiplication is: 24
+Thank you for using the calculator!
+
+Input:
+Enter your choice: 4
+enter 1st number: 20
+enter 2nd number: 5
+Output:
+Division is: 4
+Thank you for using the calculator!
+
+Input:
+Enter your choice: 4
+enter 1st number: 10
+enter 2nd number: 0
+Output:
+Error: Division by zero will tend to infinity.
+Thank you for using the calculator!
+
+Input:
+Enter your choice: 9
+Output:
+Invalid choice!
+Thank you for using the calculator!
+
+
+
