@@ -54,3 +54,19 @@ int main(){
     return 0;
 
 }
+
+
+
+RESULT : 
+
+Input:
+Enter your choice: 1
+Output:
+January
+
+Input:
+Enter your choice: 2
+Output:
+February
+
+
