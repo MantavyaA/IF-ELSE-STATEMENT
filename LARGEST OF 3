@@ -25,3 +25,14 @@ int main() {
     }
     }
 
+RESULT : 
+
+Input:
+Enter number 1:
+10
+Enter number 2:
+5
+Enter number 3:
+3
+Output:
+Num 1 is the largest
